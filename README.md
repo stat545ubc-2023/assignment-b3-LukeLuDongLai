@@ -8,6 +8,7 @@ https://ludonglai-545.shinyapps.io/shiny/
 - **Interactive Histogram**: The app showcases an interactive histogram that dynamically represents the number of songs released per year. It offers an instant graphical representation of an artist's creative timeline.
 - **Sortable Data Table**: Beneath the histogram lies a detailed and interactive table that lists song titles, artists, release years, cities, and albums. The table can be sorted and filtered by each column, enabling users to organize the data to fit their inquiries.
 - **Data Download**: A download button, located below the data table, allows users to download the data they are currently viewing as a CSV file, which can be useful for further analysis outside of the application.
+- **Responsive Layout**: The app is designed with a responsive layout, ensuring that it adapts to different screen sizes for an optimal viewing experience. The plot and the table are placed in separate tabs.
 
 # Acknowledgement
 The dataset used in the app is selected from the [singer](https://github.com/JoeyBernhardt/singer) package. 
