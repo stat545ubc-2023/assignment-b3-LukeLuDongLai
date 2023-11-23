@@ -1,0 +1,10 @@
+name: shiny
+title:
+username: ludonglai-545
+account: ludonglai-545
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10600529
+bundleId: 7956627
+url: https://ludonglai-545.shinyapps.io/shiny/
+version: 1
